@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Avimoliya13
-- 🌱 I’m currently in the 7th sem(L.Y)
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning React js
-- 📫 Email: avimoliya1977@gmail.com, Contact No.: +91 6354447157
+- 🌱 I’m currently pursuing an MS in Computer Science at California State University Fullerton (USA)
+- 👀 I’m interested in SDE
+- 📫 Email: avimoliya1977@gmail.com, Contact No.: +1 6576318668
 
 
 
